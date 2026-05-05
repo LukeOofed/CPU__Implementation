@@ -1,0 +1,9 @@
+name: EECE240_Project
+library:
+  - name: work
+    files:
+      - Subtract_Add_XOR.vhd
+      - arithmetic_unit.vhd
+      - four_bit_decoder.vhd
+      - ALU.vhd
+top: ALU.vhd
