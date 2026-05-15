@@ -1,4 +1,4 @@
-name: EECE240_Project
+name: CPU_IMPLEMENTATION
 library:
   - name: work
     files:
